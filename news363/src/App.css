@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.frontpageimage {
+  width: 50%;
+  padding: 15px;
+  border-radius: 25px;
+
+}
+
+.bar {
+  border-left: lightgray 1px solid;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+h2 {
+  padding: 15px;
+}
+
+.highlight {
+  border: solid black 1px;
+}
+
